@@ -1,0 +1,12 @@
+.buildlog
+.DS_Store
+.idea
+.packages
+.pub/
+
+pubspec.lock
+
+# directories
+build/
+packages
+doc/
